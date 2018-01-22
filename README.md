@@ -2,6 +2,7 @@ Simple line icons
 ====
 [![Build Status](https://travis-ci.org/thesabbir/simple-line-icons.svg?branch=master)](https://travis-ci.org/thesabbir/simple-line-icons)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thesabbir/simple-line-icons?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fsimple-line-icons.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fsimple-line-icons?ref=badge_shield)
 
 Simple line icons with CSS, SASS, LESS & Web-fonts files.
 
@@ -74,3 +75,7 @@ License
 You're free to use the web-font in a template/theme intended for sale on marketplaces like Themeforest.
 
 CSS, SCSS & LESS files are under [MIT License](/LICENSE.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fsimple-line-icons.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fsimple-line-icons?ref=badge_large)
